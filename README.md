@@ -35,3 +35,4 @@ The project used the (https://www.kaggle.com/jonathanoheix/face-expression-recog
 4. Open the `main.py` file and update the `load_model` line with the local path to your downloaded `model.h5` file:
    classifier = load_model(r'path_to_your_model.h5')
 5. Run the main.py script:
+6. Press 'Q' to quit the application
