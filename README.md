@@ -3,6 +3,11 @@
 ## Overview
 This project is an Emotion Detection system that utilizes a Convolutional Neural Network (CNN) model for real-time analysis of facial expressions. It was developed during a Microsoft Engage mentorship and includes features such as overlaying predicted emotions on the webcam feed and capturing frames with predicted emotions for further analysis.
 
+
+## Screenshots
+DashBoard
+![ECOMART SALE DASHBOARD_page-0001](https://github.com/Sameer1232018/powerBI_Dashboard/assets/49482350/563035fb-2adf-4b8e-8c50-2b2f51e31790)
+
 ## Key Features
 - Real-time Emotion Detection: Utilizes a CNN model to analyze facial expressions in real-time through the webcam.
 - Overlay Predicted Emotions: Displays predicted emotions as an overlay on the webcam feed, providing immediate feedback.
