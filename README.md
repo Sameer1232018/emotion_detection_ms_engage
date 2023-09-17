@@ -5,8 +5,9 @@ This project is an Emotion Detection system that utilizes a Convolutional Neural
 
 
 ## Screenshots
-DashBoard
-![ECOMART SALE DASHBOARD_page-0001](https://github.com/Sameer1232018/powerBI_Dashboard/assets/49482350/563035fb-2adf-4b8e-8c50-2b2f51e31790)
+
+![emotion_screenshot](https://github.com/Sameer1232018/emotion_detection_ms_engage/assets/49482350/505245da-63bd-4aba-868e-daf144db2f4d)
+
 
 ## Key Features
 - Real-time Emotion Detection: Utilizes a CNN model to analyze facial expressions in real-time through the webcam.
